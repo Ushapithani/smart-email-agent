@@ -4,6 +4,8 @@ Job seekers and professionals often spend a lot of time manually drafting, perso
 
 **Smart Email Agent** solves this by letting users simply chat about what they want to say. The AI generates a polished, personalized email draft, can optionally attach the user's resume, and sends it directly through their own Gmail account — removing the need for manual copy-pasting and editing.
 
+🔗 **Live Demo:** [https://email-agent-two-psi.vercel.app](https://email-agent-two-psi.vercel.app)
+
 ### What I Built
 
 - A FastAPI backend with REST endpoints for chat, profile/resume upload, and Gmail actions
